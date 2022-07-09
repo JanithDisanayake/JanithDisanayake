@@ -1,4 +1,6 @@
-### Hi there 👋
+# Janith Disanayake 
+
+[I'm an inline-style link](https://www.google.com)
 
 <!--
 **Janith3003/Janith3003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
