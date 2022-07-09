@@ -1,6 +1,15 @@
 # Janith Disanayake :octocat:
 
-![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)
+[![image](https://user-images.githubusercontent.com/98578391/178122126-d761014b-7c50-4dc0-9240-a4718c280abc.png)](https://www.linkedin.com/in/janith-disanayake-8511b0240/)
+<!--
+![image](https://user-images.githubusercontent.com/98578391/178122052-c419f0b5-2820-400a-8647-d6ffec4d3eda.png)
+-->
+### Hello World 
+- Software Enginering student
+- Live in Sri Lanka
+- Love Java
+
+
 
 
 <!--
