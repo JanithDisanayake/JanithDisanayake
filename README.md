@@ -1,14 +1,12 @@
 # Janith Disanayake :octocat:
 
-[![image](https://user-images.githubusercontent.com/98578391/178122126-d761014b-7c50-4dc0-9240-a4718c280abc.png)](https://www.linkedin.com/in/janith-disanayake-8511b0240/)
-<!--
-![image](https://user-images.githubusercontent.com/98578391/178122052-c419f0b5-2820-400a-8647-d6ffec4d3eda.png)
--->
 ### Hello World 
-- Software Enginering student
+- I'm Software Enginering student
 - Live in Sri Lanka
 - Love Java
 
+#### contact me:
+[![image](https://user-images.githubusercontent.com/98578391/178122126-d761014b-7c50-4dc0-9240-a4718c280abc.png)](https://www.linkedin.com/in/janith-disanayake-8511b0240/)
 
 
 
