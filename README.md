@@ -1,10 +1,10 @@
 # Janith Disanayake :octocat:
 
-### Hello World 
-- I'm Software Enginering student
-- Following a Degree Programe in [NIBM](https://www.nibm.lk/)
-- Live in Sri Lanka
-- Love Java
+### Hello World :earth_asia:
+- :computer: I'm Software Enginering student
+- :man_student: Following a Degree Programe in [NIBM](https://www.nibm.lk/)
+- :lion: Live in Sri Lanka
+- :coffee: Love Java
 
 contact me:
 </br>
