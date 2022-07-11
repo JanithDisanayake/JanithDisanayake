@@ -17,7 +17,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="C#" **alt="C#" width="40" height="40"/>
+  <img src="https://static.cdnlogo.com/logos/c/68/c-sharp-350x350.png" title="C#" **alt="C#" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" **alt="Arduino" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
