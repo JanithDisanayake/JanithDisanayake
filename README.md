@@ -15,7 +15,7 @@
 <div>
   <img src="https://github.com/Janith3003/Janith3003/blob/main/Images/java-logo.png" title="Java" alt="Java" width="30" height="auto"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" title="Python" alt="Python" width="40" height="40"/>
+  <img src="https://github.com/Janith3003/Janith3003/blob/main/Images/python-logo.png" title="Python" alt="Python" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://static.cdnlogo.com/logos/c/68/c-sharp-350x350.png" title="C#" **alt="C#" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
