@@ -13,7 +13,7 @@
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png" title="Java" alt="Java" width="30" height="auto"/>
+  <img src="https://github.com/Janith3003/Janith3003/blob/main/Images/java-logo.png" title="Java" alt="Java" width="30" height="auto"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" title="Python" alt="Python" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
