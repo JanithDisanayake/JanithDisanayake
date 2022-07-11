@@ -13,21 +13,21 @@
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/Janith3003/Janith3003/blob/main/Images/java-logo.png" title="Java" alt="Java" width="30" height="auto"/>
+  <img src="/Images/java-logo.png" title="Java" alt="Java" width="30" height="auto"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Janith3003/Janith3003/blob/main/Images/python-logo.png" title="Python" alt="Python" width="40" height="40"/>
+  <img src="/Images/python-logo.png" title="Python" alt="Python" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Janith3003/Janith3003/blob/main/Images/c%23-logo.png" title="C#" **alt="C#" width="40" height="40"/>
+  <img src="/Images/c%23-logo.png" title="C#" **alt="C#" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Janith3003/Janith3003/blob/main/Images/arduino-logo.png" **alt="Arduino" width="35" height="35"/>
+  <img src="/Images/arduino-logo.png" **alt="Arduino" width="35" height="35"/>
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/html5-logo.svg" title="HTML5" alt="HTML" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>
+  <img src="/Images/css3-logo.svg" title="CSS" alt="CSS" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+  <img src="/Images/javascript-logo.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="/Images/git-logo.svg" title="Git" **alt="Git" width="40" height="40"/>
   </div>
   
 ---
