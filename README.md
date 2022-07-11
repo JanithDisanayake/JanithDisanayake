@@ -21,7 +21,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Janith3003/Janith3003/blob/main/Images/arduino-logo.png" **alt="Arduino" width="35" height="35"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
+  <img src="/Images/html5-logo.svg" title="HTML5" alt="HTML" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
