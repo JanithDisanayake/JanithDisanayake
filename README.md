@@ -19,7 +19,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="https://static.cdnlogo.com/logos/c/68/c-sharp-350x350.png" title="C#" **alt="C#" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" **alt="Arduino" width="40" height="40"/>
+  <img src="https://seeklogo.com/images/A/arduino-logo-BC7CBC1DAA-seeklogo.com.png" **alt="Arduino" width="35" height="35"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
