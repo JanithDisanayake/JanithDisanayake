@@ -31,7 +31,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/c%23-logo.png" title="C#" **alt="C#" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="/Images/arduino-logo.png" **alt="Arduino" width="35" height="35"/>
+  <img src="/Images/arduino-logo.png" title="Arduino" alt="Arduino" width="35" height="35"/>
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/html5-logo.svg" title="HTML5" alt="HTML" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
@@ -39,7 +39,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/javascript-logo.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="/Images/git-logo.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="/Images/git-logo.svg" title="Git" alt="Git" width="40" height="40"/>
   </div>
   
 ---
