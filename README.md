@@ -8,7 +8,19 @@
 
 <b> contact me: </b>
 </br>
-[![image](https://user-images.githubusercontent.com/98578391/178123006-4f2439a8-ba18-4c95-8203-53477f8bac3f.png)](https://www.linkedin.com/in/janith-disanayake-8511b0240/)   ![image](https://user-images.githubusercontent.com/98578391/178123099-70015bb1-4d19-4640-8722-5b62a5df5abf.png)   ![image](https://user-images.githubusercontent.com/98578391/178123194-7343826f-7c96-4878-b12f-75491fbc2bcf.png)
+
+<a href="https://www.linkedin.com/in/janith-disanayake-8511b0240/">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/ " target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/ " target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.youtube.com/user/ " target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a> <br />
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
@@ -52,4 +64,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<!--
+[![image](https://user-images.githubusercontent.com/98578391/178123006-4f2439a8-ba18-4c95-8203-53477f8bac3f.png)](https://www.linkedin.com/in/janith-disanayake-8511b0240/)   ![image](https://user-images.githubusercontent.com/98578391/178123099-70015bb1-4d19-4640-8722-5b62a5df5abf.png)   ![image](https://user-images.githubusercontent.com/98578391/178123194-7343826f-7c96-4878-b12f-75491fbc2bcf.png)
 -->
