@@ -49,9 +49,6 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Janith3003&theme=navy-gear)](https://git.io/streak-stats)
 </br> </br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Janith3003&layout=compact&theme=vision-friendly-dark)
-</br></br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Janith3003&hide=javascript,css,scss,html&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Janith3003)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Janith3003/Janith3003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
