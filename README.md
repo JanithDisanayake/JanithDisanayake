@@ -48,6 +48,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Janith3003&theme=navy-gear)](https://git.io/streak-stats)
 </br> </br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Janith3003&layout=compact&theme=vision-friendly-dark)
 
 
 <!--
