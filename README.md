@@ -31,7 +31,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/c%23-logo.png" title="C#" **alt="C#" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="/Images/c%23-logo.png" title="C#" **alt="C#" width="40" height="40"/>
+  <img src="/Images/c%2B%2B-logo.svg" title="C++" **alt="C++" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/c%23-logo.png" title="C#" **alt="C#" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
