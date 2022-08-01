@@ -52,7 +52,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=Janith3003&style=for-the-badge&color=yellowgreen" alt="P View"/>
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Janith3003&theme=navy-gear)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Janith3003&theme=navy-gear&bg_color=00000000)
 </br> </br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Janith3003&theme=radical)
 
