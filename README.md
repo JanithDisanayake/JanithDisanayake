@@ -49,6 +49,7 @@
 ---
 
 ### :fire: My Stats :</br>
+<img src="https://komarev.com/ghpvc/?username=Janith3003&style=flat-square&color=blue" alt=""/>
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Janith3003&theme=navy-gear)
 </br> </br>
