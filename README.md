@@ -50,7 +50,7 @@
 
 ### :fire: My Stats :</br>
 
-<img src="https://komarev.com/ghpvc/?username=Janith3003&style=for-the-badge&color=ff69b4" alt="P View"/>
+<img src="https://komarev.com/ghpvc/?username=Janith3003&style=for-the-badge&color=yellowgreen" alt="P View"/>
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Janith3003&theme=navy-gear)
 </br> </br>
