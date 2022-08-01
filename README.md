@@ -52,9 +52,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=Janith3003&style=for-the-badge&color=yellowgreen" alt="P View"/>
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Janith3003&theme=navy-gear?hide_border=true&bg_color=00000000&text_color=3498db)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Janith3003&theme=navy-gear)
 </br> </br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Janith3003&theme=radical?hide_border=true&bg_color=00000000&text_color=3498db)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Janith3003&theme=radical&bg_color=00000000)
 
 
 <!--
