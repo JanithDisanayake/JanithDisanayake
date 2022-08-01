@@ -54,8 +54,7 @@
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Janith3003&theme=navy-gear)
 </br> </br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Janith3003&theme=radical&bg_color=00000000)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Janith3003&theme=radical&bg_color=00000000&text_color=3498db)
 
 <!--
 **Janith3003/Janith3003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
