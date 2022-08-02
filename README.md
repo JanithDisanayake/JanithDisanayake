@@ -4,7 +4,7 @@
 - :computer: I'm Software Enginering student
 - :man_student: Following a Degree Programe in [NIBM](https://www.nibm.lk/)
 - :lion: Live in Sri Lanka
-- :coffee: Love Java
+- :man_technologist: Full Stack Developer
 
 <b> contact me: </b>
 </br>
