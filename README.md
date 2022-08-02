@@ -23,7 +23,7 @@
 </a> <br />
 
 ---
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Frameworks :
 <div>
   <img src="/Images/java-logo.png" title="Java" alt="Java" width="30" height="auto"/>
   &nbsp;&nbsp;&nbsp;
@@ -51,6 +51,10 @@
   </div>
   
 ---
+<!--
+### :hammer_and_pick: Tools :
+---
+-->
 
 ### :fire: My Stats :</br>
 
