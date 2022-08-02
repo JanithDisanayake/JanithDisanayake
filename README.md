@@ -29,6 +29,10 @@
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/python-logo.png" title="Python" alt="Python" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
+  <img src="/Images/springio-icon.svg" title="Spring" alt="Spring" width="40" height="auto"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="/Images/reactjs-icon.svg" title="React" alt="Java" width="40" height="auto"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="/Images/c-logo.svg" title="C" **alt="C" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/c%2B%2B-logo.svg" title="C++" **alt="C++" width="40" height="40"/>
