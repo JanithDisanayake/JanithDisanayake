@@ -59,12 +59,11 @@
 ### :fire: My Stats :</br>
 
 <img src="https://komarev.com/ghpvc/?username=Janith3003&style=for-the-badge&color=yellowgreen" alt="P View"/>
-
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Janith3003&theme=navy-gear)
-</br> </br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Janith3003&theme=radical)
-<br><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Janith3003&theme=outrun&show_icons=true)
+||
+| :---: |
+|    ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Janith3003&theme=navy-gear)    |
+|    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Janith3003&theme=radical)    |
+|    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Janith3003&theme=outrun&show_icons=true)    |
 
 <!--
 **Janith3003/Janith3003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
