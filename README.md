@@ -39,22 +39,32 @@
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/c%23-logo.png" title="C#" **alt="C#" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="/Images/arduino-logo.png" title="Arduino" alt="Arduino" width="35" height="35"/>
-  &nbsp;&nbsp;&nbsp;
   <img src="/Images/html5-logo.svg" title="HTML5" alt="HTML" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/css3-logo.svg" title="CSS" alt="CSS" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/javascript-logo.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+</div>
+
+### :hammer_and_pick: Tools :
+<div>
+  <img src="/Images/vscode-logo.svg" title="Visual Studio Code" alt="Git" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="/Images/visual-studio-logo.svg" title="Visual Studio" alt="Git" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="/Images/intellij-logo.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="/Images/pycharm-logo.svg" title="Pycharm" alt="Pycharm" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="/Images/postman-logo.svg" title="Postman" alt="Postman" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="/Images/arduino-logo.png" title="Arduino" alt="Arduino" width="35" height="35"/>
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/git-logo.svg" title="Git" alt="Git" width="40" height="40"/>
-  </div>
   
+</div>
+
 ---
-<!--
-### :hammer_and_pick: Tools :
----
--->
 
 ### :fire: My Stats :</br>
 
