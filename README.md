@@ -39,13 +39,13 @@
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/c%23-logo.png" title="C#" **alt="C#" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="/Images/arduino-lang-icon.svg" title="Arduino" **alt="C#" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;
   <img src="/Images/html5-logo.svg" title="HTML5" alt="HTML" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/css3-logo.svg" title="CSS" alt="CSS" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/javascript-logo.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="/Images/arduino-lang-icon.svg" title="Arduino" **alt="C#" width="40" height="40"/>
 </div>
 
 ### :hammer_and_pick: Tools :
