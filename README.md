@@ -45,7 +45,10 @@
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/javascript-logo.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="/Images/arduino-lang-icon.svg" title="Arduino" **alt="C#" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" title="MySql" **alt="C#" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="/Images/arduino-lang-icon.svg" title="Arduino" **alt="Arduino" width="40" height="40"/>
+  
 </div>
 
 ### :hammer_and_pick: Tools :
