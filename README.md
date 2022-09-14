@@ -69,6 +69,8 @@
   <img src="/Images/arduino-logo.png" title="Arduino" alt="Arduino" width="35" height="35"/>
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/git-logo.svg" title="Git" alt="Git" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="/Images/ubuntu-logo.png" title="Git" alt="Git" width="40" height="40"/>
   
 </div>
 
