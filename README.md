@@ -70,7 +70,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/git-logo.svg" title="Git" alt="Git" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="/Images/" title="GitHub" alt="GitHub" width="50" height="35"/>
+  <img src="/Images/github-logo.svg" title="GitHub" alt="GitHub" width="50" height="35"/>
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/ubuntu-logo.png" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>
   
