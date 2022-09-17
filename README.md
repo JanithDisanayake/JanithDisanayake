@@ -29,7 +29,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/python-logo.png" title="Python" alt="Python" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="/Images/springio-icon.svg" title="Spring" alt="Spring" width="40" height="auto"/>
+  <img src="/Images/spring-boot-logo.svg" title="Spring" alt="Spring" width="40" height="auto"/>
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/reactjs-icon.svg" title="React" alt="Java" width="40" height="auto"/>
   &nbsp;&nbsp;&nbsp;
