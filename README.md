@@ -41,7 +41,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/html5-logo.svg" title="HTML5" alt="HTML" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="/Images/css3-logo.svg" title="CSS" alt="CSS" width="40" height="40"/>
+  <img src="/Images/css3-logo.svg" title="CSS" alt="CSS" width="44" height="44"/>
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/javascript-logo.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
@@ -64,7 +64,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/pycharm-logo.svg" title="Pycharm" alt="Pycharm" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="/Images/postman-logo.svg" title="Postman" alt="Postman" width="40" height="40"/>
+  <img src="/Images/postman-logo.svg" title="Postman" alt="Postman" width="35" height="35"/>
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/arduino-logo.png" title="Arduino" alt="Arduino" width="35" height="35"/>
   &nbsp;&nbsp;&nbsp;
