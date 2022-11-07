@@ -31,6 +31,8 @@
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/spring-boot-logo.png" title="Spring" alt="Spring" width="43" height="auto"/>
   &nbsp;&nbsp;&nbsp;
+    <img src="/Images/kotlin-logo.svg" title="Kotlin" alt="Kotlin" width="43" height="auto"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="/Images/reactjs-icon.svg" title="React" alt="Java" width="40" height="auto"/>
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/c-logo.svg" title="C" **alt="C" width="40" height="40"/>
