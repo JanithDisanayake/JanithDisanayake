@@ -86,7 +86,7 @@
 |   <img src="https://komarev.com/ghpvc/?username=Janith3003&style=for-the-badge&color=yellowgreen" alt="P View"/>    |
 |:---:|
 |   ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Janith3003&theme=navy-gear&card_width=500)   |
-|   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Janith3003&theme=rose_pine&layout=compact&card_width=450)    |
+<!-- |   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Janith3003&theme=rose_pine&layout=compact&card_width=450)    | -->
 |   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Janith3003&theme=outrun&show_icons=true&card_width=500)   |
 <!-- |   <a href="http://www.github.com/Janith3003"><img src="https://activity-graph.herokuapp.com/graph?username=Janith3003&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" width="500" height="auto" /></a>   | -->
   
