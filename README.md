@@ -87,7 +87,7 @@
 |:---:|
 |   ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Janith3003&theme=navy-gear&card_width=500)   |
 |   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Janith3003&layout=compact&theme=rose_pine&card_width=450) |
-|   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Janith3003&show_icons=true&theme=transparent) |
+|   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Janith3003&show_icons=true&theme=outrun) |
 
 <!-- |   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Janith3003&theme=rose_pine&layout=compact&card_width=450)    | -->
 <!-- |   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Janith3003&theme=outrun&show_icons=true&card_width=500)   | -->
