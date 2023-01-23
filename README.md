@@ -86,6 +86,12 @@
 |   <img src="https://komarev.com/ghpvc/?username=Janith3003&style=for-the-badge&color=yellowgreen" alt="P View"/>    |
 |:---:|
 |   ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Janith3003&theme=navy-gear&card_width=500)   |
+|   ![Top Langs]() |
+|   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=janith3003&show_icons=true&count_private=true&hide_border=true&theme=outrun) |
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
 <!-- |   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Janith3003&layout=compact&theme=rose_pine&card_width=450) | -->
 <!-- |   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Janith3003&show_icons=true&theme=outrun) | -->
 
