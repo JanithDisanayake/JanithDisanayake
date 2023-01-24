@@ -22,7 +22,6 @@
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a> <br />
 
-
 ---
 ### :hammer_and_wrench: Languages and Frameworks :
 <div>
@@ -66,6 +65,8 @@
   <img src="/Images/intellij-logo.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/pycharm-logo.svg" title="Pycharm" alt="Pycharm" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="/Images/android-studio-logo.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/postman-logo.svg" title="Postman" alt="Postman" width="35" height="35"/>
   &nbsp;&nbsp;&nbsp;
