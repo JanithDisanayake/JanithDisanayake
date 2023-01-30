@@ -74,7 +74,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/git-logo.svg" title="Git" alt="Git" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="/Images/github-logo-120.svg" title="GitHub" alt="GitHub" width="45" height="45"/>
+  <img src="/Images/github-logo.svg" title="GitHub" alt="GitHub" width="45" height="45"/>
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/ubuntu-logo.png" title="Ubuntu" alt="Ubuntu" width="45" height="45"/>
   
