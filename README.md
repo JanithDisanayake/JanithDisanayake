@@ -1,11 +1,17 @@
+<div align="center"><img src="https://cdn-icons-png.flaticon.com/512/5986/5986092.png" width=200 height100 />
+
 # Janith Disanayake :octocat:
 
+<div align="left">
+  
 ## Hello World :earth_asia:
 - :computer: I'm Software Enginering student
 - :man_student: Following a Degree Programe in [NIBM](https://www.nibm.lk/)
 - :lion: Live in Sri Lanka
 - :man_technologist: Software Developer
 
+  </div>
+  
 <b> contact me: </b>
 </br>
 
