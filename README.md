@@ -1,5 +1,5 @@
 <h1> Hello World !
-<img src="/Images/earth.gif" style="width:60px;"/>
+<img align=center src="/Images/earth.gif" style="width:60px; height=60px"/>
 </h1>
   
   <!--<img src="https://cdn-icons-png.flaticon.com/512/5986/5986092.png" width=100/>-->
@@ -25,10 +25,10 @@
 </a>
 <a href="https://www.facebook.com/ " target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a> <br />
+</a> <br> <br> <br>
 
----
-### :hammer_and_wrench: Languages and Frameworks :
+
+<h2> <img align=center src="Images/tools.gif" style="width:50px; height=50px"/> Languages and Frameworks </h2>
 <div align="center">
   <img src="/Images/java-logo.png" title="Java" alt="Java" width="30" height="auto"/>
   &nbsp;&nbsp;&nbsp;
@@ -84,10 +84,10 @@
   <img src="/Images/ubuntu-logo.png" title="Ubuntu" alt="Ubuntu" width="45" height="45"/>
   
 </div>
+<br><br>
 
----
 
-### :fire: My Stats :</br>
+<h2> <img align=center src="Images/fire.gif" style="width:50px; height=30px"/> My Stats </h2></br>
 
 |   <img src="https://komarev.com/ghpvc/?username=Janith3003&style=for-the-badge&color=yellowgreen" alt="P View"/>    |
 |:---:|
