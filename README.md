@@ -1,5 +1,7 @@
-# Hello World 🌏:
-
+<h1> Hello World !
+<img src="/Images/earth.gif" style="width:60px;"/>
+</h1>
+  
   <!--<img src="https://cdn-icons-png.flaticon.com/512/5986/5986092.png" width=100/>-->
 - :octocat: I'm Janith Disanayake
 - :computer: Software Enginering student
@@ -50,7 +52,7 @@
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/javascript-logo.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" title="MySql" **alt="C#" width="40" height="40"/>
+  <img src="/Images/mysql-logo.svg" title="MySql" **alt="C#" width="60" height="60"/>
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/arduino-lang-icon.svg" title="Arduino" **alt="Arduino" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
