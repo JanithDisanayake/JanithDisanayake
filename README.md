@@ -1,5 +1,5 @@
 <h1> Hello World !
-<img align=center src="/Images/earth.gif" style="width:60px; height=60px"/>
+<img align=center src="/Images/earth.gif" style="width:50px; height=50px"/>
 </h1>
   
   <!--<img src="https://cdn-icons-png.flaticon.com/512/5986/5986092.png" width=100/>-->
@@ -87,7 +87,7 @@
 <br><br>
 
 
-<h2> <img align=center src="Images/fire.gif" style="width:50px; height=30px"/> My Stats </h2></br>
+<h2> &nbsp; <img align=center src="Images/fire.gif" style="width:30px; height=30px"/> &nbsp; My Stats </h2></br>
 
 |   <img src="https://komarev.com/ghpvc/?username=Janith3003&style=for-the-badge&color=yellowgreen" alt="P View"/>    |
 |:---:|
