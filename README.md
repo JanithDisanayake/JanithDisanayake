@@ -2,7 +2,9 @@
 <img align=center src="/Images/earth.gif" style="width:50px; height=50px"/>
 </h1>
   
-  <!--<img src="https://cdn-icons-png.flaticon.com/512/5986/5986092.png" width=100/>-->
+<!--<img align="right" src="https://cdn-icons-png.flaticon.com/512/5986/5986092.png" width=500/>-->
+  <img align="right" src="https://media3.giphy.com/media/rXzHCTpiVyWb7vMsVb/giphy.gif?cid=ecf05e473uw2rxb7jvlvbxa71eu8hewrn3z9qe86krfttve3&rid=giphy.gif&ct=s" height=300/>
+  
 - :octocat: I'm Janith Disanayake
 - :computer: Software Enginering student
 - :man_student: Following a Degree Programe in [NIBM](https://www.nibm.lk/)
