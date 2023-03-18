@@ -32,21 +32,21 @@
 
 <h2> <img align=center src="Images/tools.gif" style="width:50px; height=50px"/> Languages and Frameworks </h2>
 <div align="center">
-  <img src="/Images/java-logo.png" title="Java" alt="Java" width="30" height="auto"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="/Images/python-logo.png" title="Python" alt="Python" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="/Images/spring-boot-logo.png" title="Spring" alt="Spring" width="43" height="auto"/>
-  &nbsp;&nbsp;&nbsp;
-    <img src="/Images/kotlin-logo.svg" title="Kotlin" alt="Kotlin" width="43" height="auto"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="/Images/reactjs-icon.svg" title="React" alt="Java" width="40" height="auto"/>
-  &nbsp;&nbsp;&nbsp;
   <img src="/Images/c-logo.svg" title="C" **alt="C" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/c%2B%2B-logo.svg" title="C++" **alt="C++" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/c%23-logo.png" title="C#" **alt="C#" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="/Images/java-logo.png" title="Java" alt="Java" width="30" height="auto"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="/Images/python-logo.png" title="Python" alt="Python" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+    <img src="/Images/kotlin-logo.svg" title="Kotlin" alt="Kotlin" width="43" height="auto"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="/Images/spring-boot-logo.png" title="Spring" alt="Spring" width="43" height="auto"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="/Images/reactjs-icon.svg" title="React" alt="Java" width="40" height="auto"/>
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/html5-logo.svg" title="HTML5" alt="HTML" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
