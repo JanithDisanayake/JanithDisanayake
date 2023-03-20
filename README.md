@@ -98,9 +98,6 @@
 |	<img src="http://github-readme-streak-stats.herokuapp.com?user=Janith3003&theme=navy-gear&card_width=500"/> |
 |	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janith3003&hide_border=true&layout=compact&theme=rose_pine&card_width=450"/>	|
 |	<img src="https://github-readme-stats.vercel.app/api?username=janith3003&show_icons=true&count_private=true&hide_border=true&theme=outrun"/>	|
-|   ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Janith3003&theme=navy-gear&card_width=500)   |
-|   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janith3003&hide_border=true&layout=compact&theme=rose_pine&card_width=450) |
-|   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=janith3003&show_icons=true&count_private=true&hide_border=true&theme=outrun) |
 <!-- |   ![GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Janith3003&theme=merko&width=500) | -->
 <!-- |   ![Leetcode Stats](https://leetcard.jacoblin.cool/Janith3003)    | -->
 
