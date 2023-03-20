@@ -50,6 +50,8 @@
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/css3-logo.svg" title="CSS" alt="CSS" width="44" height="44"/>
   &nbsp;&nbsp;&nbsp;
+  <img src="/Images/arduino-lang-icon.svg" title="Arduino" **alt="Arduino" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="/Images/nodejs-logo.svg" title="Node JS" alt="Node JS" width="40" height="auto"/>
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/reactjs-icon.svg" title="React" alt="Java" width="40" height="auto"/>
@@ -57,8 +59,6 @@
   <img src="/Images/spring-boot-logo.png" title="Spring" alt="Spring" width="43" height="auto"/>
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/mysql-logo.svg" title="MySql" **alt="C#" width="60" height="60"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="/Images/arduino-lang-icon.svg" title="Arduino" **alt="Arduino" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
   
 <!--
