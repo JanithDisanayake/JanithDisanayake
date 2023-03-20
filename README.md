@@ -93,6 +93,13 @@
 
 <h2> &nbsp; <img align=center src="Images/fire.gif" style="width:30px; height=30px"/> &nbsp; My Stats </h2></br>
 
+<table>
+	<tr>
+		<td>	<img src="https://komarev.com/ghpvc/?username=Janith3003&style=for-the-badge&color=yellowgreen" alt="P View"/>
+		</td>
+	</tr>
+</table>
+
 |   <img src="https://komarev.com/ghpvc/?username=Janith3003&style=for-the-badge&color=yellowgreen" alt="P View"/>    |
 |:---:|
 |	<img src="http://github-readme-streak-stats.herokuapp.com?user=Janith3003&theme=navy-gear&card_width=500"/> |
