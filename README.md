@@ -40,19 +40,21 @@
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/java-logo.png" title="Java" alt="Java" width="30" height="auto"/>
   &nbsp;&nbsp;&nbsp;
+  <img src="/Images/javascript-logo.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
   <img src="/Images/python-logo.png" title="Python" alt="Python" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
-    <img src="/Images/kotlin-logo.svg" title="Kotlin" alt="Kotlin" width="43" height="auto"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="/Images/spring-boot-logo.png" title="Spring" alt="Spring" width="43" height="auto"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="/Images/reactjs-icon.svg" title="React" alt="Java" width="40" height="auto"/>
+  <img src="/Images/kotlin-logo.svg" title="Kotlin" alt="Kotlin" width="43" height="auto"/>
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/html5-logo.svg" title="HTML5" alt="HTML" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/css3-logo.svg" title="CSS" alt="CSS" width="44" height="44"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="/Images/javascript-logo.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+  <img src="/Images/nodejs-logo.svg" title="Node JS" alt="Node JS" width="40" height="auto"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="/Images/reactjs-icon.svg" title="React" alt="Java" width="40" height="auto"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="/Images/spring-boot-logo.png" title="Spring" alt="Spring" width="43" height="auto"/>
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/mysql-logo.svg" title="MySql" **alt="C#" width="60" height="60"/>
   &nbsp;&nbsp;&nbsp;
