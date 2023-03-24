@@ -1,6 +1,6 @@
 <div align="center">
-  <h1> Hello World !
-  <img align=center src="/Images/earth.gif" style="width:50px; height=50px"/>
+  <h1>
+    Hello World !
   </h1>  
   <img src="/Images/c-logo.svg" title="C" **alt="C" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
@@ -10,9 +10,9 @@
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/java-logo.png" title="Java" alt="Java" width="30" height="auto"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="/Images/javascript-logo.svg" title="JavaScript" alt="JavaScript" width="38" height="38"/>
-  &nbsp;&nbsp;&nbsp;
   <img src="/Images/python-logo.png" title="Python" alt="Python" width="40" height="40"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="/Images/javascript-logo.svg" title="JavaScript" alt="JavaScript" width="38" height="38"/>
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/html5-logo.svg" title="HTML5" alt="HTML" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
@@ -30,10 +30,12 @@
   <img src="/Images/android-studio-logo.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>
   
   <br>
-  <img src="/Images/github-logo.svg" title="GitHub" alt="GitHub" width="100" height="100"/>
+  <img src="/Images/earth.gif" title="GitHub" alt="GitHub" width="100" height="100"/>
   <br>
   
-  <img src="/Images/git-logo.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="/Images/git-logo.svg" title="Git" alt="Git" width="38" height="38"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="/Images/github-logo-purple.svg" title="GitHub" alt="GitHub" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/arduino-logo.png" title="Arduino" alt="Arduino" width="35" height="35"/>
   &nbsp;&nbsp;&nbsp;
@@ -41,9 +43,9 @@
   &nbsp;&nbsp;&nbsp;
   <img src="/Images/nodejs-logo.svg" title="Node JS" alt="Node JS" width="40" height="auto"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="/Images/mysql-logo.svg" title="MySql" **alt="C#" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="MySql" alt="MySQL" width="40" height="40"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="/Images/ubuntu-logo.png" title="Ubuntu" alt="Ubuntu" width="45" height="45"/>
+  <img src="/Images/ubuntu-logo.png" title="Ubuntu" alt="Ubuntu" width="42" height="42"/>
   <br>
   
   <img src="/Images/reactjs-icon.svg" title="React" alt="Java" width="40" height="auto"/>
@@ -66,7 +68,7 @@
 - :man_technologist: Software Developer
 
 </div>
-<br> 
+<br>
 
 <h3> <img align=center src="Images/tools.gif" style="width:40px; height=40px"/> Current Stack </h3>
 <div align="left">
