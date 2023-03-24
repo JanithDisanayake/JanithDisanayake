@@ -101,9 +101,3 @@
 <!-- |   ![GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Janith3003&theme=merko&width=500) | -->
 <!-- |   ![Leetcode Stats](https://leetcard.jacoblin.cool/Janith3003)    | -->
 
-<!-- |   <a href="http://www.github.com/Janith3003"><img src="https://activity-graph.herokuapp.com/graph?username=Janith3003&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" width="500" height="auto" /></a>   | -->
-  
-
-<!--
-[![image](https://user-images.githubusercontent.com/98578391/178123006-4f2439a8-ba18-4c95-8203-53477f8bac3f.png)](https://www.linkedin.com/in/janith-disanayake-8511b0240/)   ![image](https://user-images.githubusercontent.com/98578391/178123099-70015bb1-4d19-4640-8722-5b62a5df5abf.png)   ![image](https://user-images.githubusercontent.com/98578391/178123194-7343826f-7c96-4878-b12f-75491fbc2bcf.png)
--->
