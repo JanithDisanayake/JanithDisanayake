@@ -72,13 +72,11 @@
 
 <h3> <img align=center src="Images/tools.gif" style="width:40px; height=40px"/> Current Stack </h3>
 <div align="left">
-  <img src="/Images/svelte-logo.svg" title="Svelte" alt="Svelte" width="35" height="35"/>
-  &nbsp;
-  <img src="/Images/golang-logo.svg" title="Svelte" alt="Svelte" width="40" height="40"/>
+  <img src="/Images/angular-logo.svg" title="Angular" alt="Angular" width="35" height="35"/>
   &nbsp;&nbsp;
-  <img src="/Images/angular-logo.svg" title="Svelte" alt="Svelte" width="35" height="35"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="/Images/webstorm-logo.svg" title="Svelte" alt="Svelte" width="35" height="35"/>
+  <img src="/Images/golang-logo.svg" title="GoLang" alt="GoLang" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="/Images/svelte-logo.svg" title="Svelte" alt="Svelte" width="35" height="35"/>
 </div>
 <br><br>
 
@@ -99,4 +97,4 @@
 </a>
 <br><br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=janith3003&show_icons=true&count_private=true&hide_border=true&theme=outrun)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=janithdisanayake&show_icons=true&count_private=true&hide_border=true&theme=outrun)
