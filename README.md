@@ -56,8 +56,6 @@
   </div>
   <br><br>
   
-
-  
 <!--<img align="right" src="https://cdn-icons-png.flaticon.com/512/5986/5986092.png" width=500/>-->
 <!--<img align="right" src="https://media3.giphy.com/media/rXzHCTpiVyWb7vMsVb/giphy.gif?cid=ecf05e473uw2rxb7jvlvbxa71eu8hewrn3z9qe86krfttve3&rid=giphy.gif&ct=s" height=300/>-->
   
@@ -67,8 +65,21 @@
 - :lion: Live in Sri Lanka
 - :man_technologist: Software Developer
 
-  </div>
-  
+</div>
+<br> 
+
+<h3> <img align=center src="Images/tools.gif" style="width:40px; height=40px"/> Current Stack </h3>
+<div align="left">
+  <img src="/Images/svelte-logo.svg" title="Svelte" alt="Svelte" width="35" height="35"/>
+  &nbsp;
+  <img src="/Images/golang-logo.svg" title="Svelte" alt="Svelte" width="40" height="40"/>
+  &nbsp;&nbsp;
+  <img src="/Images/angular-logo.svg" title="Svelte" alt="Svelte" width="35" height="35"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="/Images/webstorm-logo.svg" title="Svelte" alt="Svelte" width="35" height="35"/>
+</div>
+<br><br>
+
 <b> contact me: </b>
 </br>
 
@@ -83,70 +94,7 @@
 </a>
 <a href="https://www.facebook.com/ " target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a> <br> <br> <br>
-
-
-<h2> <img align=center src="Images/tools.gif" style="width:50px; height=50px"/> Languages and Frameworks </h2>
-<div align="center">
-  <img src="/Images/c-logo.svg" title="C" **alt="C" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="/Images/c%2B%2B-logo.svg" title="C++" **alt="C++" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="/Images/c%23-logo.png" title="C#" **alt="C#" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="/Images/java-logo.png" title="Java" alt="Java" width="30" height="auto"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="/Images/javascript-logo.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="/Images/python-logo.png" title="Python" alt="Python" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="/Images/kotlin-logo.svg" title="Kotlin" alt="Kotlin" width="43" height="auto"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="/Images/html5-logo.svg" title="HTML5" alt="HTML" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="/Images/css3-logo.svg" title="CSS" alt="CSS" width="44" height="44"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="/Images/arduino-lang-icon.svg" title="Arduino" **alt="Arduino" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="/Images/nodejs-logo.svg" title="Node JS" alt="Node JS" width="40" height="auto"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="/Images/reactjs-icon.svg" title="React" alt="Java" width="40" height="auto"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="/Images/spring-boot-logo.png" title="Spring" alt="Spring" width="43" height="auto"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="/Images/mysql-logo.svg" title="MySql" **alt="C#" width="60" height="60"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="/Images/vscode-logo.svg" title="Visual Studio Code" alt="Git" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="/Images/visual-studio-logo.svg" title="Visual Studio" alt="Git" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="/Images/intellij-logo.svg" title="IntelliJ IDEA" alt="IntelliJ IDEA" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="/Images/pycharm-logo.svg" title="Pycharm" alt="Pycharm" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="/Images/android-studio-logo.svg" title="Android Studio" alt="Android Studio" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="/Images/postman-logo.svg" title="Postman" alt="Postman" width="35" height="35"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="/Images/arduino-logo.png" title="Arduino" alt="Arduino" width="35" height="35"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="/Images/git-logo.svg" title="Git" alt="Git" width="40" height="40"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="/Images/github-logo.svg" title="GitHub" alt="GitHub" width="45" height="45"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="/Images/ubuntu-logo.png" title="Ubuntu" alt="Ubuntu" width="45" height="45"/>
-  
-</div>
+</a>
 <br><br>
 
-
-<h2> &nbsp; <img align=center src="Images/fire.gif" style="width:30px; height=30px"/> &nbsp; My Stats </h2></br>
-
-|   <img src="https://komarev.com/ghpvc/?username=Janith3003&style=for-the-badge&color=yellowgreen" alt="P View"/>    |
-|:---:|
-|   ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Janith3003&theme=navy-gear&card_width=500)   |
-|   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janith3003&hide_border=true&layout=compact&theme=rose_pine&card_width=450) |
-|   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=janith3003&show_icons=true&count_private=true&hide_border=true&theme=outrun) |
-<!-- |   ![GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Janith3003&theme=merko&width=500) | -->
-<!-- |   ![Leetcode Stats](https://leetcard.jacoblin.cool/Janith3003)    | -->
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=janith3003&show_icons=true&count_private=true&hide_border=true&theme=outrun)
